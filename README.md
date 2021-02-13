@@ -2,7 +2,7 @@
 ![](./ScreenshotWebPage.png)
 
 # Description
-* Tasks App developed with Javascript and Local Storage was implemented.
+* Tasks App developed with Javascript and Local Storage was implemented to store tasks.
 
 # Recomendations
 * Complete the interface
